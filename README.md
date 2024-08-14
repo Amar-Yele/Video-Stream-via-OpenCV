@@ -17,8 +17,6 @@ Motion Tracking: Applies background subtraction to track moving objects.
 
 Video Recording: Saves the video with annotations to a specified file.
 
-Clone the repository:
-
 git clone https://github.com/Amar-Yele/Video-Stream-via-OpenCV.git
 
 Set up dependencies:
@@ -30,8 +28,6 @@ Configure your IDE to include the JavaFX libraries and OpenCV native libraries.
 
 Launch the application and click Start to begin processing the video stream.
 Use Stop to end the session and save the recorded video.
-Contributions:
-Feel free to fork the repository and make improvements. Pull requests are welcome!
 
 #### License:
 This project is licensed under the MIT License.
